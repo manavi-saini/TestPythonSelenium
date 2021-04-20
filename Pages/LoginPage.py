@@ -12,6 +12,7 @@ class LoginPage:
 
     def navigate_to_app_URL(self, url):
         self.driver.get(url)
+        time.sleep(15)
 
     def enter_user_credentials(self, username, password):
         self.driver.find_element_by_id(self.username_id).send_keys(username)

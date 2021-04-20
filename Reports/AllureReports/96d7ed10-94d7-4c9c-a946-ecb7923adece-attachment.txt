@@ -1,0 +1,4 @@
+[32mINFO    [0m getLogger:AddEmployee_test.py:32 User logged in
+[32mINFO    [0m getLogger:AddEmployee_test.py:34 Clicked PIM
+[32mINFO    [0m getLogger:AddEmployee_test.py:36 Clicked Add Employee
+[32mINFO    [0m getLogger:AddEmployee_test.py:48 New Employee created successfully

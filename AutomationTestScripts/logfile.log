@@ -1,0 +1,106 @@
+2020-06-06 21:16:27,120 :INFO : getLogger :Hello world
+2020-06-06 21:24:32,246 :INFO : getLogger :Hello world
+2020-06-06 21:25:32,089 :INFO : getLogger :Hello world
+2020-06-06 21:26:16,855 :INFO : getLogger :Hello world
+2020-06-06 21:26:47,728 :INFO : getLogger :Hello Hello
+2020-06-06 21:26:52,350 :INFO : getLogger :Hello world
+2020-06-06 21:26:52,350 :INFO : getLogger :Hello world
+2020-06-08 12:13:48,727 :INFO : getLogger :Hello Hello
+2020-06-08 12:13:53,368 :INFO : getLogger :Hello world
+2020-06-08 12:13:53,368 :INFO : getLogger :Hello world
+2020-06-08 13:05:42,486 :INFO : getLogger :HalaHala
+2020-06-08 13:05:42,502 :INFO : getLogger :Hello Hello
+2020-06-08 13:05:42,502 :INFO : getLogger :Hello Hello
+2020-06-08 13:16:51,264 :INFO : getLogger :User logged in
+2020-06-08 13:16:53,541 :INFO : getLogger :Clicked PIM
+2020-06-08 13:16:54,759 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:16:59,269 :INFO : getLogger :HalaHala
+2020-06-08 13:16:59,269 :INFO : getLogger :HalaHala
+2020-06-08 13:17:46,587 :INFO : getLogger :User logged in successfully
+2020-06-08 13:17:46,587 :INFO : getLogger :User logged in successfully
+2020-06-08 13:17:46,587 :INFO : getLogger :User logged in successfully
+2020-06-08 13:18:32,517 :INFO : getLogger :User logged in
+2020-06-08 13:18:32,517 :INFO : getLogger :User logged in
+2020-06-08 13:18:32,517 :INFO : getLogger :User logged in
+2020-06-08 13:18:32,517 :INFO : getLogger :User logged in
+2020-06-08 13:18:35,144 :INFO : getLogger :Clicked PIM
+2020-06-08 13:18:35,144 :INFO : getLogger :Clicked PIM
+2020-06-08 13:18:35,144 :INFO : getLogger :Clicked PIM
+2020-06-08 13:18:35,144 :INFO : getLogger :Clicked PIM
+2020-06-08 13:18:36,514 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:18:36,514 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:18:36,514 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:18:36,514 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:18:41,364 :INFO : getLogger :HalaHala
+2020-06-08 13:18:41,364 :INFO : getLogger :HalaHala
+2020-06-08 13:18:41,364 :INFO : getLogger :HalaHala
+2020-06-08 13:18:41,364 :INFO : getLogger :HalaHala
+2020-06-08 13:18:41,364 :INFO : getLogger :HalaHala
+2020-06-08 13:20:28,694 :INFO : getLogger :HalaHala
+2020-06-08 13:20:28,694 :INFO : getLogger :HalaHala
+2020-06-08 13:21:15,694 :INFO : getLogger :User logged in successfully
+2020-06-08 13:21:15,694 :INFO : getLogger :User logged in successfully
+2020-06-08 13:21:15,694 :INFO : getLogger :User logged in successfully
+2020-06-08 13:22:03,171 :INFO : getLogger :User logged in
+2020-06-08 13:22:03,171 :INFO : getLogger :User logged in
+2020-06-08 13:22:03,171 :INFO : getLogger :User logged in
+2020-06-08 13:22:03,171 :INFO : getLogger :User logged in
+2020-06-08 13:22:05,837 :INFO : getLogger :Clicked PIM
+2020-06-08 13:22:05,837 :INFO : getLogger :Clicked PIM
+2020-06-08 13:22:05,837 :INFO : getLogger :Clicked PIM
+2020-06-08 13:22:05,837 :INFO : getLogger :Clicked PIM
+2020-06-08 13:22:07,056 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:22:07,056 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:22:07,056 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:22:07,056 :INFO : getLogger :Clicked Add Employee
+2020-06-08 13:22:11,690 :INFO : getLogger :HalaHala
+2020-06-08 13:22:11,690 :INFO : getLogger :HalaHala
+2020-06-08 13:22:11,690 :INFO : getLogger :HalaHala
+2020-06-08 13:22:11,690 :INFO : getLogger :HalaHala
+2020-06-08 13:22:11,690 :INFO : getLogger :HalaHala
+2020-06-08 14:42:26,965 :INFO : getLogger :HalaHala
+2020-06-08 14:42:26,981 :INFO : getLogger :Hello Hello
+2020-06-08 14:42:26,981 :INFO : getLogger :Hello Hello
+2020-06-08 14:43:19,296 :INFO : getLogger :User logged in
+2020-06-08 14:43:19,296 :INFO : getLogger :User logged in
+2020-06-08 14:43:19,296 :INFO : getLogger :User logged in
+2020-06-08 14:43:21,389 :INFO : getLogger :Clicked PIM
+2020-06-08 14:43:21,389 :INFO : getLogger :Clicked PIM
+2020-06-08 14:43:21,389 :INFO : getLogger :Clicked PIM
+2020-06-08 14:43:22,594 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:43:22,594 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:43:22,594 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:43:27,627 :INFO : getLogger :HalaHala
+2020-06-08 14:43:27,627 :INFO : getLogger :HalaHala
+2020-06-08 14:43:27,627 :INFO : getLogger :HalaHala
+2020-06-08 14:43:27,627 :INFO : getLogger :HalaHala
+2020-06-08 14:44:16,202 :INFO : getLogger :User logged in successfully
+2020-06-08 14:44:16,202 :INFO : getLogger :User logged in successfully
+2020-06-08 14:44:16,202 :INFO : getLogger :User logged in successfully
+2020-06-08 14:44:16,202 :INFO : getLogger :User logged in successfully
+2020-06-08 14:44:16,202 :INFO : getLogger :User logged in successfully
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:05,981 :INFO : getLogger :User logged in
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:08,288 :INFO : getLogger :Clicked PIM
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:09,486 :INFO : getLogger :Clicked Add Employee
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala
+2020-06-08 14:45:14,102 :INFO : getLogger :HalaHala

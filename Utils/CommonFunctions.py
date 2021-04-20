@@ -17,7 +17,6 @@ class CommonFunctions:
             # Navigating to Application URL
             # self.driver.get(util.URL)
             login.navigate_to_app_URL(util.URL)
-            time.sleep(10)
 
             # Entering User Credentials
             login.enter_user_credentials(username, password)

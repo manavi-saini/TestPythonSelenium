@@ -26,3 +26,9 @@ class Locators:
     statusdropdown = "systemUser_status"
     pwd_textbox = "systemUser_password"
     confpwd_textbox = "systemUser_confirmPassword"
+
+    # Employee Details page
+    personal_details_header = "//div[@class='personalDetails']//h1"
+    add_attachment = "btnAddAttachment"
+    upload_file_input = "ufile"
+    save_upload = "btnSaveAttachment"

@@ -1,11 +1,10 @@
 import pytest
 
-
 # def pytest_addoption(parser):
 #     parser.addoption("--browser", action="store", default="chrome", help="Type in browser name e.g. chrome OR firefox")
 
-# @pytest.fixture(scope="class")
-@pytest.fixture()
+@pytest.fixture(scope="class")
+# @pytest.fixture()
 def test_setup(request):
     # global driver
     from selenium import webdriver
@@ -22,8 +21,9 @@ def test_setup(request):
     options = webdriver.ChromeOptions()
     # options.add_argument("--headless")  # For Headless Automation Test Run
     options.add_experimental_option('useAutomationExtension', False)
+
     driver = webdriver.Chrome(options=options,
-                              executable_path="C:/KBData/PyCharmProjects/SeleniumPython/Webdrivers/chromedriver.exe")
+                              executable_path="C:/KBData/PyCharmProjects/PythonSeleniumFrame/Webdrivers/chromedriver.exe")
 
     driver.set_page_load_timeout(10)
     driver.implicitly_wait(5)
@@ -32,3 +32,5 @@ def test_setup(request):
     yield
     driver.close()
     driver.quit()
+
+
